@@ -4,7 +4,7 @@ public class TrueOrFalse {
     //add implementation
     }
 
-  public boolean isIsFalse() {
+  public boolean itIsFalse() {
     //add implementation
     }
   
