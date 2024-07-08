@@ -1,0 +1,11 @@
+public class TrueOrFalse {
+
+  public boolean itIsTrue() {
+    //add implementation
+    }
+
+  public boolean isIsFalse() {
+    //add implementation
+    }
+  
+}
