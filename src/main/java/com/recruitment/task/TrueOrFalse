@@ -1,3 +1,5 @@
+package com.recruitment.task
+
 public class TrueOrFalse {
 
   public boolean itIsTrue() {
